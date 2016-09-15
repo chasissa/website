@@ -3,7 +3,7 @@
   <channel>
       <title> on CharlestonISSA </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>charlestonissa.org/</link>
+    <link>http://charlestonissa.org/</link>
     <language>en-us</language>
     
     
@@ -11,20 +11,20 @@
     
     <item>
       <title>Survey Results</title>
-      <link>/charlestonissa.org/post/surveyresults/</link>
+      <link>http://charlestonissa.org/post/surveyresults/</link>
       <pubDate>Thu, 15 Sep 2016 21:50:18 EDT</pubDate>
       
-      <guid>/charlestonissa.org/post/surveyresults/</guid>
+      <guid>http://charlestonissa.org/post/surveyresults/</guid>
       <description>&lt;p&gt;I received about 40 survey submissions and here are the results:&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>We&#39;re Back!</title>
-      <link>/charlestonissa.org/post/wereback/</link>
+      <link>http://charlestonissa.org/post/wereback/</link>
       <pubDate>Mon, 08 Aug 2016 21:50:18 EDT</pubDate>
       
-      <guid>/charlestonissa.org/post/wereback/</guid>
+      <guid>http://charlestonissa.org/post/wereback/</guid>
       <description>&lt;p&gt;We&amp;rsquo;re getting the band back together, MAN!&lt;/p&gt;
 </description>
     </item>
